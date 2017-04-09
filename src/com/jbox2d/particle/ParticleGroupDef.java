@@ -28,7 +28,7 @@ public class ParticleGroupDef {
   public float angle;
 
   /** The linear velocity of the group's origin in world co-ordinates. */
-  public final Vec2 linearVelocity = new Vec2();
+  public Vec2 linearVelocity = new Vec2();
 
   /** The angular velocity of the group. */
   public float angularVelocity;

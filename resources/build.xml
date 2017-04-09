@@ -1,4 +1,4 @@
-<project name="Processing Library" default="clean" basedir="../">
+<project name="PBox2D" default="clean" basedir="../">
 
     
 <!--	
